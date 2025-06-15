@@ -1,0 +1,15 @@
+<h3>Total Sales</h3>
+
+<div *ngIf="totals" class="totals">
+  All Customers: {{ totals.allCustomers | currency }}<br />
+  Loyalty Customers: {{ totals.loyaltyCustomers | currency }}
+</div>
+
+<canvas
+  *ngIf="chartData"
+  baseChart
+  [data]="chartData"
+  [type]="'line'"
+  [options]="chartOptions"
+  style="display: block; max-height: 400px;"
+></canvas>

@@ -1,0 +1,10 @@
+<div *ngIf="chartData && chartData.labels?.length">
+  <h3>Sales by Channel</h3>
+  <canvas
+    baseChart
+    [data]="chartData"
+    [type]="'bar'"
+    [options]="chartOptions"
+    style="display: block; max-height: 400px"
+  ></canvas>
+</div>

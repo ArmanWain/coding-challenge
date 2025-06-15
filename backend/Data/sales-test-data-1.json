@@ -1,0 +1,8858 @@
+[
+  {
+    "date": "2023-06-16",
+    "amount": 101.97,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-17",
+    "amount": 130.52,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-17",
+    "amount": 175.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-17",
+    "amount": 95.46,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-18",
+    "amount": 145.43,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-18",
+    "amount": 74.8,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-19",
+    "amount": 176.46,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-19",
+    "amount": 67.64,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-20",
+    "amount": 154.73,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-20",
+    "amount": 168.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-20",
+    "amount": 193.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-21",
+    "amount": 175.31,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-21",
+    "amount": 140.79,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-22",
+    "amount": 167.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-23",
+    "amount": 109.57,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-23",
+    "amount": 167.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-23",
+    "amount": 194.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-24",
+    "amount": 179.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-25",
+    "amount": 52.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-26",
+    "amount": 58.87,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-26",
+    "amount": 193.42,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-27",
+    "amount": 88.7,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-06-28",
+    "amount": 197.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-29",
+    "amount": 111.94,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-30",
+    "amount": 140.36,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-06-30",
+    "amount": 139.68,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-01",
+    "amount": 83.73,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-01",
+    "amount": 140.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-02",
+    "amount": 185.25,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-02",
+    "amount": 81.15,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-02",
+    "amount": 143.49,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-03",
+    "amount": 144.79,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-04",
+    "amount": 146.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-04",
+    "amount": 97.52,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-05",
+    "amount": 171.73,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-05",
+    "amount": 179.43,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-05",
+    "amount": 187.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-06",
+    "amount": 74.63,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-06",
+    "amount": 148.37,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-06",
+    "amount": 53.42,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-07",
+    "amount": 199.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-08",
+    "amount": 167.1,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-08",
+    "amount": 133.7,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-09",
+    "amount": 133.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-09",
+    "amount": 80.68,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-09",
+    "amount": 67.47,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-10",
+    "amount": 113.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-10",
+    "amount": 131.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-11",
+    "amount": 63.8,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-12",
+    "amount": 107.05,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-12",
+    "amount": 85.9,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-12",
+    "amount": 123.66,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-13",
+    "amount": 92.54,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-14",
+    "amount": 69.32,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-14",
+    "amount": 195.71,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-14",
+    "amount": 60.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-15",
+    "amount": 126.99,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-16",
+    "amount": 151.85,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-16",
+    "amount": 161.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-16",
+    "amount": 125.3,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-17",
+    "amount": 79.94,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-18",
+    "amount": 158.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-19",
+    "amount": 154.31,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-20",
+    "amount": 51.12,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-20",
+    "amount": 55.82,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-20",
+    "amount": 127.07,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-21",
+    "amount": 128.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-21",
+    "amount": 53.98,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-21",
+    "amount": 89.21,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-22",
+    "amount": 73.7,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-22",
+    "amount": 128.63,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-23",
+    "amount": 64.91,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-23",
+    "amount": 123.58,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-23",
+    "amount": 99.32,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-24",
+    "amount": 109.86,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-24",
+    "amount": 77.99,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-25",
+    "amount": 185.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-25",
+    "amount": 92.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-26",
+    "amount": 188.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-27",
+    "amount": 170.8,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-27",
+    "amount": 126.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-27",
+    "amount": 74.58,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-28",
+    "amount": 115.39,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-28",
+    "amount": 85.37,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-28",
+    "amount": 90.49,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-29",
+    "amount": 188.38,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-29",
+    "amount": 82.74,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-29",
+    "amount": 74.59,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-30",
+    "amount": 186.45,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-30",
+    "amount": 135.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-07-31",
+    "amount": 66.32,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-31",
+    "amount": 94.83,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-07-31",
+    "amount": 188.64,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-01",
+    "amount": 181.27,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-01",
+    "amount": 137.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-02",
+    "amount": 69.27,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-03",
+    "amount": 157.2,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-04",
+    "amount": 160.65,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-04",
+    "amount": 54.13,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-04",
+    "amount": 104.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-05",
+    "amount": 171.39,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-05",
+    "amount": 174.4,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-05",
+    "amount": 148.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-06",
+    "amount": 139.24,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-06",
+    "amount": 117.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-06",
+    "amount": 165.59,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-07",
+    "amount": 147.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-07",
+    "amount": 124.95,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-07",
+    "amount": 60.5,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-08",
+    "amount": 165.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-09",
+    "amount": 185.21,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-09",
+    "amount": 175.12,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-09",
+    "amount": 133.15,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-10",
+    "amount": 104.69,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-10",
+    "amount": 93.62,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-11",
+    "amount": 124.38,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-12",
+    "amount": 191.13,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-13",
+    "amount": 61.46,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-14",
+    "amount": 141.5,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-15",
+    "amount": 157.54,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-16",
+    "amount": 68.52,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-16",
+    "amount": 184.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-17",
+    "amount": 153.0,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-17",
+    "amount": 57.24,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-17",
+    "amount": 121.63,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-18",
+    "amount": 182.65,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-19",
+    "amount": 150.0,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-20",
+    "amount": 193.0,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-20",
+    "amount": 143.45,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-20",
+    "amount": 148.02,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-21",
+    "amount": 75.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-21",
+    "amount": 116.32,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-21",
+    "amount": 187.73,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-22",
+    "amount": 145.49,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-22",
+    "amount": 108.11,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-22",
+    "amount": 73.65,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-23",
+    "amount": 97.84,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-23",
+    "amount": 152.85,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-23",
+    "amount": 172.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-24",
+    "amount": 136.51,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-25",
+    "amount": 179.07,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-26",
+    "amount": 104.5,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-26",
+    "amount": 104.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-26",
+    "amount": 170.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-27",
+    "amount": 162.02,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-27",
+    "amount": 167.27,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-28",
+    "amount": 84.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-28",
+    "amount": 144.34,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-28",
+    "amount": 169.99,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-29",
+    "amount": 102.86,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-29",
+    "amount": 80.21,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-30",
+    "amount": 58.96,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-08-30",
+    "amount": 114.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-31",
+    "amount": 65.05,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-08-31",
+    "amount": 133.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-01",
+    "amount": 124.22,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-02",
+    "amount": 166.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-03",
+    "amount": 112.92,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-03",
+    "amount": 163.21,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-04",
+    "amount": 168.46,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-04",
+    "amount": 121.39,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-04",
+    "amount": 135.07,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-05",
+    "amount": 144.65,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-06",
+    "amount": 184.74,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-06",
+    "amount": 83.17,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-06",
+    "amount": 196.41,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-07",
+    "amount": 73.02,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-08",
+    "amount": 144.85,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-08",
+    "amount": 52.91,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-09",
+    "amount": 152.57,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-09",
+    "amount": 91.35,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-09",
+    "amount": 65.61,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-10",
+    "amount": 172.8,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-10",
+    "amount": 149.72,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-11",
+    "amount": 165.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-12",
+    "amount": 140.17,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-12",
+    "amount": 103.17,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-13",
+    "amount": 126.41,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-13",
+    "amount": 60.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-13",
+    "amount": 73.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-14",
+    "amount": 181.26,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-14",
+    "amount": 85.42,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-14",
+    "amount": 101.94,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-15",
+    "amount": 119.84,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-15",
+    "amount": 173.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-15",
+    "amount": 172.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-16",
+    "amount": 109.57,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-16",
+    "amount": 158.8,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-17",
+    "amount": 132.92,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-18",
+    "amount": 64.11,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-18",
+    "amount": 181.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-18",
+    "amount": 134.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-19",
+    "amount": 78.87,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-19",
+    "amount": 104.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-19",
+    "amount": 82.75,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-20",
+    "amount": 126.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-20",
+    "amount": 184.52,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-20",
+    "amount": 80.07,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-21",
+    "amount": 73.94,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-21",
+    "amount": 169.67,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-22",
+    "amount": 197.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-22",
+    "amount": 90.86,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-23",
+    "amount": 85.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-24",
+    "amount": 96.27,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-24",
+    "amount": 101.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-25",
+    "amount": 135.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-25",
+    "amount": 133.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-25",
+    "amount": 95.43,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-26",
+    "amount": 73.93,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-26",
+    "amount": 192.33,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-26",
+    "amount": 83.3,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-27",
+    "amount": 165.27,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-27",
+    "amount": 157.61,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-27",
+    "amount": 110.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-28",
+    "amount": 158.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-29",
+    "amount": 71.71,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-09-29",
+    "amount": 157.14,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-29",
+    "amount": 106.55,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-09-30",
+    "amount": 171.97,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-01",
+    "amount": 159.78,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-01",
+    "amount": 130.3,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-02",
+    "amount": 59.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-03",
+    "amount": 191.1,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-04",
+    "amount": 162.42,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-04",
+    "amount": 64.64,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-05",
+    "amount": 191.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-05",
+    "amount": 111.64,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-05",
+    "amount": 63.77,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-06",
+    "amount": 155.58,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-07",
+    "amount": 109.91,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-07",
+    "amount": 84.41,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-08",
+    "amount": 63.45,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-08",
+    "amount": 89.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-08",
+    "amount": 99.33,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-09",
+    "amount": 175.52,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-09",
+    "amount": 176.87,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-10",
+    "amount": 135.69,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-11",
+    "amount": 163.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-12",
+    "amount": 61.85,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-12",
+    "amount": 75.72,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-12",
+    "amount": 142.7,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-13",
+    "amount": 139.37,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-13",
+    "amount": 180.15,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-13",
+    "amount": 70.74,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-14",
+    "amount": 137.62,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-14",
+    "amount": 106.07,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-14",
+    "amount": 143.0,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-15",
+    "amount": 90.41,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-15",
+    "amount": 125.23,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-16",
+    "amount": 137.73,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-16",
+    "amount": 107.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-16",
+    "amount": 115.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-17",
+    "amount": 114.21,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-18",
+    "amount": 181.55,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-18",
+    "amount": 185.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-18",
+    "amount": 77.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-19",
+    "amount": 130.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-20",
+    "amount": 143.52,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-20",
+    "amount": 142.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-21",
+    "amount": 90.89,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-21",
+    "amount": 76.99,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-21",
+    "amount": 148.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-22",
+    "amount": 101.49,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-22",
+    "amount": 79.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-23",
+    "amount": 151.82,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-23",
+    "amount": 145.01,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-23",
+    "amount": 132.15,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-24",
+    "amount": 190.7,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-24",
+    "amount": 50.37,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-24",
+    "amount": 105.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-25",
+    "amount": 137.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-26",
+    "amount": 62.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-27",
+    "amount": 110.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-28",
+    "amount": 132.95,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-29",
+    "amount": 56.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-10-30",
+    "amount": 196.9,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-30",
+    "amount": 137.21,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-10-31",
+    "amount": 92.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-01",
+    "amount": 58.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-01",
+    "amount": 68.31,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-01",
+    "amount": 141.81,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-02",
+    "amount": 173.37,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-02",
+    "amount": 106.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-03",
+    "amount": 99.68,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-03",
+    "amount": 58.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-04",
+    "amount": 101.71,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-04",
+    "amount": 150.37,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-04",
+    "amount": 79.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-05",
+    "amount": 64.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-05",
+    "amount": 99.7,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-05",
+    "amount": 66.18,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-06",
+    "amount": 98.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-06",
+    "amount": 138.95,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-07",
+    "amount": 54.08,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-07",
+    "amount": 195.48,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-08",
+    "amount": 75.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-08",
+    "amount": 91.44,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-08",
+    "amount": 193.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-09",
+    "amount": 97.07,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-09",
+    "amount": 174.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-09",
+    "amount": 115.87,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-10",
+    "amount": 132.58,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-11",
+    "amount": 136.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-12",
+    "amount": 111.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-13",
+    "amount": 188.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-13",
+    "amount": 178.45,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-13",
+    "amount": 62.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-14",
+    "amount": 94.55,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-14",
+    "amount": 106.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-14",
+    "amount": 108.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-15",
+    "amount": 166.37,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-16",
+    "amount": 104.31,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-16",
+    "amount": 68.46,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-16",
+    "amount": 125.11,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-17",
+    "amount": 91.42,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-17",
+    "amount": 120.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-18",
+    "amount": 178.55,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-18",
+    "amount": 193.57,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-19",
+    "amount": 120.16,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-19",
+    "amount": 95.1,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-19",
+    "amount": 183.57,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-20",
+    "amount": 53.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-21",
+    "amount": 111.03,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-21",
+    "amount": 138.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-21",
+    "amount": 83.4,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-22",
+    "amount": 142.92,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-22",
+    "amount": 173.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-22",
+    "amount": 56.3,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-23",
+    "amount": 50.03,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-24",
+    "amount": 150.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-24",
+    "amount": 99.22,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-25",
+    "amount": 168.67,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-25",
+    "amount": 124.58,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-26",
+    "amount": 65.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-26",
+    "amount": 164.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-27",
+    "amount": 193.08,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-27",
+    "amount": 99.29,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-27",
+    "amount": 51.73,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-28",
+    "amount": 198.43,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-11-28",
+    "amount": 131.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-29",
+    "amount": 68.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-30",
+    "amount": 191.88,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-30",
+    "amount": 188.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-11-30",
+    "amount": 110.17,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-01",
+    "amount": 160.65,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-01",
+    "amount": 185.71,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-01",
+    "amount": 99.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-02",
+    "amount": 137.47,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-03",
+    "amount": 66.4,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-04",
+    "amount": 171.56,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-04",
+    "amount": 99.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-05",
+    "amount": 154.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-05",
+    "amount": 106.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-06",
+    "amount": 118.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-07",
+    "amount": 122.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-07",
+    "amount": 132.23,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-07",
+    "amount": 55.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-08",
+    "amount": 175.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-09",
+    "amount": 166.32,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-09",
+    "amount": 50.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-09",
+    "amount": 135.95,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-10",
+    "amount": 88.04,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-11",
+    "amount": 174.36,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-11",
+    "amount": 98.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-12",
+    "amount": 89.32,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-12",
+    "amount": 165.16,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-12",
+    "amount": 138.83,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-13",
+    "amount": 100.69,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-13",
+    "amount": 69.37,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-13",
+    "amount": 58.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-14",
+    "amount": 72.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-15",
+    "amount": 151.94,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-15",
+    "amount": 138.83,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-16",
+    "amount": 88.79,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-16",
+    "amount": 114.93,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-16",
+    "amount": 122.67,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-17",
+    "amount": 172.98,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-18",
+    "amount": 84.8,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-19",
+    "amount": 195.52,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-20",
+    "amount": 191.5,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-20",
+    "amount": 128.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-20",
+    "amount": 187.01,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-21",
+    "amount": 151.46,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-21",
+    "amount": 166.69,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-21",
+    "amount": 160.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-22",
+    "amount": 62.39,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-22",
+    "amount": 196.64,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-23",
+    "amount": 81.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-24",
+    "amount": 199.59,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-25",
+    "amount": 120.93,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-25",
+    "amount": 177.4,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-26",
+    "amount": 86.65,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-26",
+    "amount": 134.07,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-27",
+    "amount": 144.79,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-27",
+    "amount": 190.98,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-28",
+    "amount": 102.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-28",
+    "amount": 127.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-28",
+    "amount": 196.45,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-29",
+    "amount": 130.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2023-12-30",
+    "amount": 142.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-31",
+    "amount": 135.81,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2023-12-31",
+    "amount": 73.68,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-01",
+    "amount": 90.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-01",
+    "amount": 198.12,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-01",
+    "amount": 79.46,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-02",
+    "amount": 101.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-02",
+    "amount": 178.43,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-03",
+    "amount": 155.5,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-03",
+    "amount": 82.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-04",
+    "amount": 76.79,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-05",
+    "amount": 92.69,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-05",
+    "amount": 174.4,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-05",
+    "amount": 191.66,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-06",
+    "amount": 158.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-06",
+    "amount": 120.11,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-07",
+    "amount": 132.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-07",
+    "amount": 56.26,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-07",
+    "amount": 181.49,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-08",
+    "amount": 91.19,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-08",
+    "amount": 157.73,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-09",
+    "amount": 179.41,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-10",
+    "amount": 88.59,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-11",
+    "amount": 182.53,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-11",
+    "amount": 185.23,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-12",
+    "amount": 188.38,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-12",
+    "amount": 86.16,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-13",
+    "amount": 173.89,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-13",
+    "amount": 148.64,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-13",
+    "amount": 108.4,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-14",
+    "amount": 180.45,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-14",
+    "amount": 64.61,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-15",
+    "amount": 76.02,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-15",
+    "amount": 96.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-16",
+    "amount": 110.82,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-17",
+    "amount": 82.02,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-17",
+    "amount": 174.13,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-18",
+    "amount": 53.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-18",
+    "amount": 51.19,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-18",
+    "amount": 145.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-19",
+    "amount": 137.83,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-20",
+    "amount": 160.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-21",
+    "amount": 56.04,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-21",
+    "amount": 183.94,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-22",
+    "amount": 102.75,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-23",
+    "amount": 159.33,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-23",
+    "amount": 94.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-24",
+    "amount": 68.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-25",
+    "amount": 175.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-25",
+    "amount": 59.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-26",
+    "amount": 189.74,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-26",
+    "amount": 170.13,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-26",
+    "amount": 66.11,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-27",
+    "amount": 168.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-27",
+    "amount": 89.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-28",
+    "amount": 100.6,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-29",
+    "amount": 50.33,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-29",
+    "amount": 160.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-30",
+    "amount": 186.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-30",
+    "amount": 87.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-01-31",
+    "amount": 92.61,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-31",
+    "amount": 68.44,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-01-31",
+    "amount": 182.19,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-01",
+    "amount": 61.45,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-01",
+    "amount": 141.72,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-02",
+    "amount": 196.88,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-03",
+    "amount": 126.33,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-04",
+    "amount": 197.43,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-05",
+    "amount": 51.95,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-06",
+    "amount": 97.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-07",
+    "amount": 94.4,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-07",
+    "amount": 94.53,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-08",
+    "amount": 81.09,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-09",
+    "amount": 135.74,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-09",
+    "amount": 187.42,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-09",
+    "amount": 186.14,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-10",
+    "amount": 177.14,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-11",
+    "amount": 100.7,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-11",
+    "amount": 91.21,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-12",
+    "amount": 91.88,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-13",
+    "amount": 132.53,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-13",
+    "amount": 148.56,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-13",
+    "amount": 121.94,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-14",
+    "amount": 55.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-14",
+    "amount": 159.5,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-14",
+    "amount": 71.17,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-15",
+    "amount": 189.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-15",
+    "amount": 114.27,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-16",
+    "amount": 107.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-16",
+    "amount": 83.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-17",
+    "amount": 63.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-18",
+    "amount": 160.09,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-18",
+    "amount": 157.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-19",
+    "amount": 126.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-19",
+    "amount": 60.51,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-20",
+    "amount": 85.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-20",
+    "amount": 193.1,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-21",
+    "amount": 132.54,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-21",
+    "amount": 140.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-22",
+    "amount": 196.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-23",
+    "amount": 78.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-24",
+    "amount": 171.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-24",
+    "amount": 99.54,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-24",
+    "amount": 150.24,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-25",
+    "amount": 82.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-26",
+    "amount": 157.5,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-27",
+    "amount": 64.88,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-27",
+    "amount": 130.12,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-27",
+    "amount": 65.28,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-02-28",
+    "amount": 87.76,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-28",
+    "amount": 180.55,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-28",
+    "amount": 172.03,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-29",
+    "amount": 108.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-02-29",
+    "amount": 63.32,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-01",
+    "amount": 134.0,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-01",
+    "amount": 144.64,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-01",
+    "amount": 119.75,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-02",
+    "amount": 181.17,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-03",
+    "amount": 182.79,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-04",
+    "amount": 72.37,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-04",
+    "amount": 64.37,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-05",
+    "amount": 144.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-06",
+    "amount": 78.14,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-07",
+    "amount": 50.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-07",
+    "amount": 198.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-07",
+    "amount": 115.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-08",
+    "amount": 134.7,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-08",
+    "amount": 138.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-08",
+    "amount": 74.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-09",
+    "amount": 83.49,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-09",
+    "amount": 183.35,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-10",
+    "amount": 108.88,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-10",
+    "amount": 73.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-11",
+    "amount": 85.58,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-12",
+    "amount": 121.06,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-12",
+    "amount": 65.16,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-12",
+    "amount": 194.14,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-13",
+    "amount": 111.11,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-13",
+    "amount": 70.95,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-13",
+    "amount": 83.93,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-14",
+    "amount": 74.79,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-14",
+    "amount": 138.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-14",
+    "amount": 167.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-15",
+    "amount": 68.56,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-15",
+    "amount": 174.09,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-15",
+    "amount": 81.88,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-16",
+    "amount": 70.32,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-17",
+    "amount": 115.32,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-18",
+    "amount": 190.7,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-19",
+    "amount": 104.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-19",
+    "amount": 128.17,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-19",
+    "amount": 194.59,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-20",
+    "amount": 102.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-20",
+    "amount": 136.64,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-21",
+    "amount": 53.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-22",
+    "amount": 52.58,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-22",
+    "amount": 176.74,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-23",
+    "amount": 119.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-23",
+    "amount": 59.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-24",
+    "amount": 64.65,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-24",
+    "amount": 140.81,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-24",
+    "amount": 80.62,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-25",
+    "amount": 130.16,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-25",
+    "amount": 51.1,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-25",
+    "amount": 154.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-26",
+    "amount": 126.22,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-26",
+    "amount": 158.45,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-26",
+    "amount": 60.8,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-27",
+    "amount": 75.64,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-27",
+    "amount": 66.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-28",
+    "amount": 72.01,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-28",
+    "amount": 162.85,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-28",
+    "amount": 174.79,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-29",
+    "amount": 99.14,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-29",
+    "amount": 122.74,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-29",
+    "amount": 119.19,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-30",
+    "amount": 161.36,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-03-31",
+    "amount": 127.13,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-03-31",
+    "amount": 152.9,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-01",
+    "amount": 64.81,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-01",
+    "amount": 121.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-02",
+    "amount": 159.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-02",
+    "amount": 96.07,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-02",
+    "amount": 132.12,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-03",
+    "amount": 66.08,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-04",
+    "amount": 148.46,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-04",
+    "amount": 84.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-04",
+    "amount": 170.79,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-05",
+    "amount": 93.6,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-05",
+    "amount": 144.33,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-06",
+    "amount": 142.56,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-06",
+    "amount": 57.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-07",
+    "amount": 115.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-08",
+    "amount": 57.8,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-08",
+    "amount": 74.7,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-08",
+    "amount": 52.74,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-09",
+    "amount": 192.91,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-09",
+    "amount": 145.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-09",
+    "amount": 102.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-10",
+    "amount": 106.08,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-10",
+    "amount": 90.1,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-11",
+    "amount": 131.35,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-11",
+    "amount": 169.78,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-12",
+    "amount": 171.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-12",
+    "amount": 109.95,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-13",
+    "amount": 158.83,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-13",
+    "amount": 164.78,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-14",
+    "amount": 106.46,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-15",
+    "amount": 121.42,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-15",
+    "amount": 154.25,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-15",
+    "amount": 134.79,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-16",
+    "amount": 185.1,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-16",
+    "amount": 129.82,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-16",
+    "amount": 70.08,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-17",
+    "amount": 56.88,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-17",
+    "amount": 63.61,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-17",
+    "amount": 194.21,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-18",
+    "amount": 126.72,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-18",
+    "amount": 75.54,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-19",
+    "amount": 107.95,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-19",
+    "amount": 60.6,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-20",
+    "amount": 56.42,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-20",
+    "amount": 80.22,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-20",
+    "amount": 166.3,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-21",
+    "amount": 136.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-21",
+    "amount": 186.14,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-22",
+    "amount": 161.81,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-22",
+    "amount": 146.86,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-23",
+    "amount": 196.87,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-23",
+    "amount": 111.17,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-23",
+    "amount": 171.39,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-24",
+    "amount": 137.83,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-24",
+    "amount": 103.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-25",
+    "amount": 129.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-25",
+    "amount": 71.55,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-25",
+    "amount": 55.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-26",
+    "amount": 64.41,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-26",
+    "amount": 92.25,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-27",
+    "amount": 115.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-27",
+    "amount": 190.72,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-28",
+    "amount": 129.16,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-28",
+    "amount": 91.04,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-28",
+    "amount": 152.14,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-29",
+    "amount": 94.71,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-04-29",
+    "amount": 53.65,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-29",
+    "amount": 197.63,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-04-30",
+    "amount": 74.94,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-01",
+    "amount": 64.32,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-01",
+    "amount": 69.11,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-01",
+    "amount": 156.35,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-02",
+    "amount": 162.15,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-03",
+    "amount": 79.39,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-03",
+    "amount": 132.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-04",
+    "amount": 142.01,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-04",
+    "amount": 78.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-04",
+    "amount": 124.27,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-05",
+    "amount": 53.47,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-05",
+    "amount": 159.87,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-05",
+    "amount": 157.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-06",
+    "amount": 116.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-06",
+    "amount": 164.1,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-07",
+    "amount": 160.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-07",
+    "amount": 61.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-07",
+    "amount": 170.25,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-08",
+    "amount": 115.33,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-08",
+    "amount": 83.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-08",
+    "amount": 97.18,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-09",
+    "amount": 191.4,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-09",
+    "amount": 171.24,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-09",
+    "amount": 124.82,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-10",
+    "amount": 144.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-10",
+    "amount": 152.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-10",
+    "amount": 156.02,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-11",
+    "amount": 189.34,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-12",
+    "amount": 146.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-13",
+    "amount": 66.03,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-13",
+    "amount": 69.2,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-13",
+    "amount": 137.85,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-14",
+    "amount": 71.85,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-14",
+    "amount": 51.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-14",
+    "amount": 68.38,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-15",
+    "amount": 91.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-16",
+    "amount": 196.71,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-16",
+    "amount": 168.09,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-16",
+    "amount": 178.31,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-17",
+    "amount": 151.12,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-17",
+    "amount": 99.92,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-18",
+    "amount": 141.76,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-19",
+    "amount": 105.44,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-19",
+    "amount": 108.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-20",
+    "amount": 172.69,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-20",
+    "amount": 95.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-20",
+    "amount": 188.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-21",
+    "amount": 188.68,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-21",
+    "amount": 79.63,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-22",
+    "amount": 134.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-23",
+    "amount": 152.48,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-23",
+    "amount": 166.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-24",
+    "amount": 96.55,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-25",
+    "amount": 161.95,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-25",
+    "amount": 163.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-26",
+    "amount": 130.79,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-26",
+    "amount": 93.57,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-26",
+    "amount": 119.26,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-27",
+    "amount": 187.54,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-27",
+    "amount": 57.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-27",
+    "amount": 104.62,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-28",
+    "amount": 115.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-28",
+    "amount": 118.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-28",
+    "amount": 78.78,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-29",
+    "amount": 124.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-29",
+    "amount": 119.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-30",
+    "amount": 140.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-05-30",
+    "amount": 137.87,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-05-31",
+    "amount": 59.17,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-01",
+    "amount": 80.7,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-02",
+    "amount": 146.43,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-02",
+    "amount": 90.46,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-03",
+    "amount": 125.18,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-03",
+    "amount": 162.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-04",
+    "amount": 134.06,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-04",
+    "amount": 56.76,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-05",
+    "amount": 68.63,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-06",
+    "amount": 79.15,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-06",
+    "amount": 110.65,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-06",
+    "amount": 104.15,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-07",
+    "amount": 74.3,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-07",
+    "amount": 66.17,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-08",
+    "amount": 102.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-08",
+    "amount": 144.38,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-08",
+    "amount": 117.53,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-09",
+    "amount": 182.18,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-10",
+    "amount": 134.0,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-10",
+    "amount": 186.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-10",
+    "amount": 161.92,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-11",
+    "amount": 77.52,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-11",
+    "amount": 173.02,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-12",
+    "amount": 78.19,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-12",
+    "amount": 123.55,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-13",
+    "amount": 79.69,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-14",
+    "amount": 63.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-14",
+    "amount": 109.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-14",
+    "amount": 158.83,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-15",
+    "amount": 50.4,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-16",
+    "amount": 134.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-17",
+    "amount": 167.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-17",
+    "amount": 62.02,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-18",
+    "amount": 162.12,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-19",
+    "amount": 95.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-19",
+    "amount": 147.03,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-20",
+    "amount": 171.83,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-20",
+    "amount": 96.7,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-20",
+    "amount": 89.37,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-21",
+    "amount": 120.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-21",
+    "amount": 118.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-21",
+    "amount": 135.9,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-22",
+    "amount": 165.68,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-22",
+    "amount": 143.57,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-22",
+    "amount": 169.58,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-23",
+    "amount": 177.98,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-24",
+    "amount": 158.35,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-25",
+    "amount": 187.26,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-25",
+    "amount": 103.44,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-25",
+    "amount": 192.0,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-26",
+    "amount": 88.19,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-26",
+    "amount": 134.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-27",
+    "amount": 199.41,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-27",
+    "amount": 55.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-28",
+    "amount": 96.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-06-28",
+    "amount": 64.24,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-29",
+    "amount": 96.23,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-30",
+    "amount": 53.69,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-30",
+    "amount": 84.92,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-06-30",
+    "amount": 145.16,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-01",
+    "amount": 199.05,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-01",
+    "amount": 82.29,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-02",
+    "amount": 135.25,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-02",
+    "amount": 177.5,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-02",
+    "amount": 120.28,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-03",
+    "amount": 97.06,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-04",
+    "amount": 141.18,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-04",
+    "amount": 124.23,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-05",
+    "amount": 106.14,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-05",
+    "amount": 87.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-06",
+    "amount": 165.67,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-06",
+    "amount": 165.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-06",
+    "amount": 170.67,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-07",
+    "amount": 116.88,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-08",
+    "amount": 179.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-08",
+    "amount": 107.86,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-09",
+    "amount": 69.66,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-09",
+    "amount": 120.23,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-09",
+    "amount": 88.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-10",
+    "amount": 199.74,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-11",
+    "amount": 50.08,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-11",
+    "amount": 156.14,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-12",
+    "amount": 194.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-12",
+    "amount": 173.85,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-12",
+    "amount": 103.75,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-13",
+    "amount": 137.73,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-14",
+    "amount": 107.63,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-14",
+    "amount": 112.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-14",
+    "amount": 82.08,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-15",
+    "amount": 75.99,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-15",
+    "amount": 119.86,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-15",
+    "amount": 148.1,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-16",
+    "amount": 172.47,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-17",
+    "amount": 163.47,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-17",
+    "amount": 55.08,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-18",
+    "amount": 71.84,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-18",
+    "amount": 91.9,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-18",
+    "amount": 135.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-19",
+    "amount": 116.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-20",
+    "amount": 93.31,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-21",
+    "amount": 128.94,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-21",
+    "amount": 70.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-21",
+    "amount": 189.26,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-22",
+    "amount": 107.34,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-23",
+    "amount": 176.65,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-23",
+    "amount": 141.69,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-23",
+    "amount": 74.73,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-24",
+    "amount": 130.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-25",
+    "amount": 108.22,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-25",
+    "amount": 110.71,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-25",
+    "amount": 172.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-26",
+    "amount": 115.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-27",
+    "amount": 60.89,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-28",
+    "amount": 103.28,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-28",
+    "amount": 105.33,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-28",
+    "amount": 121.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-29",
+    "amount": 142.95,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-29",
+    "amount": 107.21,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-29",
+    "amount": 173.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-30",
+    "amount": 172.34,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-30",
+    "amount": 135.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-07-30",
+    "amount": 106.17,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-31",
+    "amount": 188.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-07-31",
+    "amount": 175.75,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-01",
+    "amount": 185.54,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-01",
+    "amount": 131.28,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-01",
+    "amount": 57.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-02",
+    "amount": 174.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-02",
+    "amount": 147.16,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-03",
+    "amount": 179.05,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-03",
+    "amount": 177.76,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-04",
+    "amount": 174.83,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-04",
+    "amount": 100.57,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-04",
+    "amount": 133.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-05",
+    "amount": 179.55,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-06",
+    "amount": 111.97,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-06",
+    "amount": 113.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-06",
+    "amount": 124.18,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-07",
+    "amount": 70.19,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-07",
+    "amount": 73.51,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-08",
+    "amount": 122.39,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-08",
+    "amount": 157.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-08",
+    "amount": 180.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-09",
+    "amount": 142.82,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-10",
+    "amount": 97.34,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-10",
+    "amount": 73.34,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-10",
+    "amount": 64.76,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-11",
+    "amount": 53.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-11",
+    "amount": 169.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-11",
+    "amount": 135.58,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-12",
+    "amount": 158.34,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-13",
+    "amount": 175.82,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-14",
+    "amount": 152.58,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-15",
+    "amount": 70.28,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-15",
+    "amount": 127.97,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-16",
+    "amount": 142.7,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-16",
+    "amount": 152.4,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-16",
+    "amount": 65.34,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-17",
+    "amount": 104.43,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-18",
+    "amount": 111.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-18",
+    "amount": 87.02,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-19",
+    "amount": 51.98,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-19",
+    "amount": 152.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-19",
+    "amount": 183.57,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-20",
+    "amount": 67.88,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-21",
+    "amount": 119.76,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-21",
+    "amount": 85.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-22",
+    "amount": 85.9,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-23",
+    "amount": 73.95,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-23",
+    "amount": 128.85,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-24",
+    "amount": 174.67,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-24",
+    "amount": 102.69,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-24",
+    "amount": 95.27,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-25",
+    "amount": 153.96,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-25",
+    "amount": 107.32,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-26",
+    "amount": 108.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-26",
+    "amount": 175.67,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-27",
+    "amount": 122.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-28",
+    "amount": 171.76,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-29",
+    "amount": 103.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-29",
+    "amount": 197.39,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-08-30",
+    "amount": 165.74,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-31",
+    "amount": 199.62,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-31",
+    "amount": 135.82,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-08-31",
+    "amount": 53.34,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-01",
+    "amount": 93.81,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-02",
+    "amount": 193.97,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-02",
+    "amount": 196.46,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-03",
+    "amount": 195.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-03",
+    "amount": 150.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-04",
+    "amount": 159.72,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-04",
+    "amount": 61.43,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-05",
+    "amount": 91.99,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-06",
+    "amount": 170.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-06",
+    "amount": 168.08,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-06",
+    "amount": 158.7,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-07",
+    "amount": 162.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-07",
+    "amount": 96.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-07",
+    "amount": 61.57,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-08",
+    "amount": 102.71,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-08",
+    "amount": 117.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-09",
+    "amount": 81.72,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-09",
+    "amount": 160.14,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-10",
+    "amount": 101.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-10",
+    "amount": 143.83,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-11",
+    "amount": 55.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-11",
+    "amount": 195.1,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-11",
+    "amount": 50.52,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-12",
+    "amount": 189.51,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-12",
+    "amount": 94.26,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-12",
+    "amount": 146.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-13",
+    "amount": 182.19,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-13",
+    "amount": 155.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-13",
+    "amount": 120.75,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-14",
+    "amount": 190.72,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-15",
+    "amount": 66.09,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-15",
+    "amount": 109.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-15",
+    "amount": 69.9,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-16",
+    "amount": 190.41,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-16",
+    "amount": 139.05,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-17",
+    "amount": 108.93,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-17",
+    "amount": 181.67,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-17",
+    "amount": 199.01,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-18",
+    "amount": 192.47,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-18",
+    "amount": 177.72,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-18",
+    "amount": 112.18,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-19",
+    "amount": 188.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-20",
+    "amount": 124.93,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-21",
+    "amount": 135.49,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-22",
+    "amount": 147.65,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-23",
+    "amount": 159.42,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-23",
+    "amount": 144.68,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-24",
+    "amount": 90.99,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-24",
+    "amount": 74.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-24",
+    "amount": 98.36,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-25",
+    "amount": 133.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-26",
+    "amount": 56.54,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-26",
+    "amount": 181.77,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-26",
+    "amount": 117.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-27",
+    "amount": 82.19,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-27",
+    "amount": 114.45,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-28",
+    "amount": 114.6,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-28",
+    "amount": 178.08,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-09-29",
+    "amount": 143.59,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-30",
+    "amount": 148.45,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-09-30",
+    "amount": 92.39,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-01",
+    "amount": 82.53,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-01",
+    "amount": 101.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-01",
+    "amount": 175.04,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-02",
+    "amount": 166.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-02",
+    "amount": 91.9,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-02",
+    "amount": 177.41,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-03",
+    "amount": 115.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-03",
+    "amount": 177.92,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-04",
+    "amount": 189.65,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-05",
+    "amount": 92.26,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-05",
+    "amount": 89.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-05",
+    "amount": 180.97,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-06",
+    "amount": 142.38,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-06",
+    "amount": 167.77,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-07",
+    "amount": 195.29,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-08",
+    "amount": 189.18,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-09",
+    "amount": 141.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-10",
+    "amount": 140.16,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-11",
+    "amount": 182.22,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-12",
+    "amount": 181.15,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-12",
+    "amount": 175.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-12",
+    "amount": 98.31,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-13",
+    "amount": 169.85,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-14",
+    "amount": 141.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-14",
+    "amount": 137.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-14",
+    "amount": 195.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-15",
+    "amount": 181.2,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-16",
+    "amount": 196.53,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-17",
+    "amount": 110.88,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-18",
+    "amount": 112.31,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-19",
+    "amount": 78.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-19",
+    "amount": 142.62,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-20",
+    "amount": 116.05,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-20",
+    "amount": 177.23,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-21",
+    "amount": 176.8,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-21",
+    "amount": 78.16,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-22",
+    "amount": 147.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-23",
+    "amount": 130.07,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-23",
+    "amount": 159.82,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-24",
+    "amount": 178.59,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-24",
+    "amount": 58.37,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-24",
+    "amount": 147.23,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-25",
+    "amount": 67.65,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-25",
+    "amount": 192.13,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-25",
+    "amount": 93.23,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-26",
+    "amount": 180.52,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-27",
+    "amount": 55.23,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-27",
+    "amount": 76.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-27",
+    "amount": 171.67,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-28",
+    "amount": 143.45,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-28",
+    "amount": 179.86,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-28",
+    "amount": 124.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-29",
+    "amount": 96.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-29",
+    "amount": 73.87,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-10-29",
+    "amount": 170.77,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-30",
+    "amount": 183.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-30",
+    "amount": 182.31,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-10-31",
+    "amount": 86.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-01",
+    "amount": 97.74,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-01",
+    "amount": 89.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-02",
+    "amount": 148.86,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-02",
+    "amount": 86.48,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-02",
+    "amount": 178.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-03",
+    "amount": 130.86,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-03",
+    "amount": 186.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-04",
+    "amount": 158.38,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-05",
+    "amount": 74.03,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-05",
+    "amount": 75.15,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-05",
+    "amount": 110.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-06",
+    "amount": 179.18,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-06",
+    "amount": 97.88,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-06",
+    "amount": 109.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-07",
+    "amount": 60.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-07",
+    "amount": 60.33,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-07",
+    "amount": 64.76,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-08",
+    "amount": 54.91,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-08",
+    "amount": 169.54,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-08",
+    "amount": 151.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-09",
+    "amount": 139.03,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-09",
+    "amount": 75.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-10",
+    "amount": 101.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-10",
+    "amount": 127.15,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-11",
+    "amount": 175.0,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-11",
+    "amount": 171.69,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-12",
+    "amount": 139.97,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-13",
+    "amount": 130.74,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-13",
+    "amount": 115.79,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-13",
+    "amount": 65.13,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-14",
+    "amount": 183.93,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-15",
+    "amount": 57.74,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-15",
+    "amount": 183.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-15",
+    "amount": 128.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-16",
+    "amount": 66.39,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-16",
+    "amount": 174.56,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-17",
+    "amount": 101.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-18",
+    "amount": 82.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-18",
+    "amount": 168.68,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-18",
+    "amount": 184.19,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-19",
+    "amount": 80.63,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-20",
+    "amount": 86.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-20",
+    "amount": 190.61,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-20",
+    "amount": 64.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-21",
+    "amount": 134.18,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-21",
+    "amount": 59.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-22",
+    "amount": 85.64,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-22",
+    "amount": 161.59,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-22",
+    "amount": 119.96,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-23",
+    "amount": 165.08,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-23",
+    "amount": 164.88,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-23",
+    "amount": 75.18,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-24",
+    "amount": 156.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-24",
+    "amount": 199.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-25",
+    "amount": 92.64,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-26",
+    "amount": 196.49,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-26",
+    "amount": 173.86,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-26",
+    "amount": 50.43,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-27",
+    "amount": 88.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-27",
+    "amount": 137.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-28",
+    "amount": 148.34,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-28",
+    "amount": 131.99,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-11-29",
+    "amount": 165.85,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-29",
+    "amount": 102.79,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-11-30",
+    "amount": 90.36,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-01",
+    "amount": 54.0,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-01",
+    "amount": 98.21,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-02",
+    "amount": 90.37,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-02",
+    "amount": 90.82,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-02",
+    "amount": 188.26,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-03",
+    "amount": 139.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-04",
+    "amount": 124.5,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-05",
+    "amount": 69.03,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-05",
+    "amount": 187.41,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-05",
+    "amount": 86.0,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-06",
+    "amount": 88.24,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-06",
+    "amount": 194.33,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-06",
+    "amount": 151.66,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-07",
+    "amount": 147.28,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-07",
+    "amount": 154.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-08",
+    "amount": 101.16,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-08",
+    "amount": 94.81,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-08",
+    "amount": 178.08,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-09",
+    "amount": 110.69,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-09",
+    "amount": 84.04,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-09",
+    "amount": 52.86,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-10",
+    "amount": 149.36,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-11",
+    "amount": 58.97,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-11",
+    "amount": 144.2,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-11",
+    "amount": 73.75,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-12",
+    "amount": 169.48,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-13",
+    "amount": 118.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-14",
+    "amount": 119.16,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-15",
+    "amount": 148.42,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-15",
+    "amount": 61.77,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-15",
+    "amount": 118.27,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-16",
+    "amount": 146.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-16",
+    "amount": 104.63,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-17",
+    "amount": 170.78,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-17",
+    "amount": 169.34,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-18",
+    "amount": 92.94,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-19",
+    "amount": 128.38,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-20",
+    "amount": 124.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-20",
+    "amount": 113.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-21",
+    "amount": 125.34,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-22",
+    "amount": 61.05,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-23",
+    "amount": 173.71,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-23",
+    "amount": 106.58,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-23",
+    "amount": 122.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-24",
+    "amount": 54.17,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-24",
+    "amount": 86.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-24",
+    "amount": 197.95,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-25",
+    "amount": 122.32,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-25",
+    "amount": 167.15,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-25",
+    "amount": 99.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-26",
+    "amount": 135.99,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-26",
+    "amount": 122.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-26",
+    "amount": 93.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-27",
+    "amount": 62.93,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-28",
+    "amount": 68.4,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-28",
+    "amount": 113.3,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-28",
+    "amount": 184.3,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-29",
+    "amount": 182.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-29",
+    "amount": 159.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-29",
+    "amount": 192.94,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-30",
+    "amount": 72.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-30",
+    "amount": 55.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2024-12-30",
+    "amount": 64.09,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2024-12-31",
+    "amount": 193.43,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-01",
+    "amount": 60.63,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-01",
+    "amount": 90.31,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-01",
+    "amount": 108.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-02",
+    "amount": 91.12,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-03",
+    "amount": 50.86,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-04",
+    "amount": 154.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-04",
+    "amount": 90.64,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-04",
+    "amount": 98.52,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-05",
+    "amount": 155.1,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-05",
+    "amount": 96.59,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-06",
+    "amount": 132.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-06",
+    "amount": 65.49,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-07",
+    "amount": 150.64,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-07",
+    "amount": 162.08,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-07",
+    "amount": 107.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-08",
+    "amount": 117.31,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-08",
+    "amount": 51.83,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-08",
+    "amount": 153.29,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-09",
+    "amount": 185.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-10",
+    "amount": 107.47,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-11",
+    "amount": 91.9,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-11",
+    "amount": 84.23,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-12",
+    "amount": 167.76,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-12",
+    "amount": 60.53,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-12",
+    "amount": 112.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-13",
+    "amount": 135.82,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-13",
+    "amount": 184.84,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-13",
+    "amount": 152.31,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-14",
+    "amount": 146.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-15",
+    "amount": 65.99,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-15",
+    "amount": 108.03,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-16",
+    "amount": 152.06,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-17",
+    "amount": 107.94,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-17",
+    "amount": 178.84,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-17",
+    "amount": 84.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-18",
+    "amount": 96.11,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-18",
+    "amount": 125.35,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-19",
+    "amount": 182.54,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-19",
+    "amount": 168.75,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-20",
+    "amount": 78.83,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-20",
+    "amount": 102.37,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-20",
+    "amount": 76.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-21",
+    "amount": 107.7,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-21",
+    "amount": 134.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-22",
+    "amount": 178.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-22",
+    "amount": 174.62,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-22",
+    "amount": 54.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-23",
+    "amount": 75.39,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-23",
+    "amount": 149.39,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-23",
+    "amount": 163.74,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-24",
+    "amount": 152.59,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-24",
+    "amount": 173.48,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-24",
+    "amount": 84.61,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-25",
+    "amount": 166.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-25",
+    "amount": 198.61,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-25",
+    "amount": 191.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-26",
+    "amount": 189.5,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-26",
+    "amount": 197.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-27",
+    "amount": 156.14,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-27",
+    "amount": 125.68,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-27",
+    "amount": 110.62,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-28",
+    "amount": 103.11,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-29",
+    "amount": 129.24,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-30",
+    "amount": 148.86,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-30",
+    "amount": 127.11,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-01-31",
+    "amount": 83.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-01-31",
+    "amount": 110.91,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-01",
+    "amount": 127.82,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-01",
+    "amount": 98.51,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-02",
+    "amount": 103.36,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-02",
+    "amount": 150.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-02",
+    "amount": 197.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-03",
+    "amount": 140.04,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-04",
+    "amount": 172.02,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-04",
+    "amount": 117.36,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-04",
+    "amount": 128.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-05",
+    "amount": 109.47,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-05",
+    "amount": 68.81,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-06",
+    "amount": 112.12,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-07",
+    "amount": 73.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-07",
+    "amount": 134.96,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-07",
+    "amount": 102.59,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-08",
+    "amount": 85.81,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-08",
+    "amount": 184.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-08",
+    "amount": 81.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-09",
+    "amount": 119.13,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-09",
+    "amount": 100.15,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-09",
+    "amount": 141.38,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-10",
+    "amount": 134.48,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-10",
+    "amount": 110.91,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-11",
+    "amount": 81.73,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-11",
+    "amount": 118.01,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-11",
+    "amount": 144.37,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-12",
+    "amount": 95.41,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-13",
+    "amount": 55.53,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-13",
+    "amount": 105.21,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-14",
+    "amount": 101.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-15",
+    "amount": 145.78,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-16",
+    "amount": 54.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-16",
+    "amount": 97.89,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-17",
+    "amount": 57.04,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-18",
+    "amount": 54.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-18",
+    "amount": 98.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-19",
+    "amount": 152.81,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-20",
+    "amount": 143.0,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-20",
+    "amount": 76.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-20",
+    "amount": 150.14,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-21",
+    "amount": 88.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-22",
+    "amount": 126.63,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-22",
+    "amount": 138.32,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-23",
+    "amount": 182.45,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-23",
+    "amount": 143.66,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-24",
+    "amount": 66.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-25",
+    "amount": 162.55,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-25",
+    "amount": 169.13,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-26",
+    "amount": 172.16,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-26",
+    "amount": 180.97,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-26",
+    "amount": 92.96,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-27",
+    "amount": 142.26,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-27",
+    "amount": 115.51,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-27",
+    "amount": 197.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-02-28",
+    "amount": 190.06,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-02-28",
+    "amount": 83.45,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-01",
+    "amount": 109.35,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-01",
+    "amount": 138.01,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-02",
+    "amount": 55.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-02",
+    "amount": 170.56,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-03",
+    "amount": 122.31,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-04",
+    "amount": 78.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-04",
+    "amount": 199.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-04",
+    "amount": 91.81,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-05",
+    "amount": 123.24,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-05",
+    "amount": 60.21,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-05",
+    "amount": 149.51,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-06",
+    "amount": 146.49,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-07",
+    "amount": 94.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-07",
+    "amount": 51.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-07",
+    "amount": 150.17,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-08",
+    "amount": 80.29,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-09",
+    "amount": 97.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-09",
+    "amount": 165.38,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-10",
+    "amount": 94.03,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-10",
+    "amount": 78.41,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-11",
+    "amount": 92.46,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-11",
+    "amount": 69.67,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-11",
+    "amount": 98.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-12",
+    "amount": 109.12,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-12",
+    "amount": 67.64,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-12",
+    "amount": 105.01,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-13",
+    "amount": 145.51,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-13",
+    "amount": 111.47,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-13",
+    "amount": 129.48,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-14",
+    "amount": 102.41,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-15",
+    "amount": 62.71,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-15",
+    "amount": 130.21,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-15",
+    "amount": 51.7,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-16",
+    "amount": 67.0,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-16",
+    "amount": 78.9,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-17",
+    "amount": 125.9,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-17",
+    "amount": 102.74,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-17",
+    "amount": 61.08,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-18",
+    "amount": 113.37,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-18",
+    "amount": 180.22,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-18",
+    "amount": 93.29,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-19",
+    "amount": 133.05,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-19",
+    "amount": 112.94,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-20",
+    "amount": 52.54,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-21",
+    "amount": 72.77,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-21",
+    "amount": 77.39,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-22",
+    "amount": 158.22,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-22",
+    "amount": 137.25,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-22",
+    "amount": 121.83,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-23",
+    "amount": 182.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-23",
+    "amount": 164.99,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-24",
+    "amount": 70.1,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-25",
+    "amount": 89.9,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-26",
+    "amount": 86.27,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-26",
+    "amount": 173.14,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-27",
+    "amount": 198.03,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-28",
+    "amount": 114.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-28",
+    "amount": 135.74,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-29",
+    "amount": 174.1,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-30",
+    "amount": 99.34,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-30",
+    "amount": 104.35,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-03-30",
+    "amount": 155.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-03-31",
+    "amount": 106.85,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-01",
+    "amount": 60.89,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-01",
+    "amount": 90.18,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-01",
+    "amount": 94.54,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-02",
+    "amount": 108.18,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-03",
+    "amount": 188.2,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-04",
+    "amount": 174.37,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-04",
+    "amount": 136.86,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-05",
+    "amount": 143.54,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-05",
+    "amount": 165.7,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-05",
+    "amount": 111.96,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-06",
+    "amount": 67.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-07",
+    "amount": 81.2,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-07",
+    "amount": 80.73,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-07",
+    "amount": 159.67,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-08",
+    "amount": 165.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-08",
+    "amount": 61.61,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-09",
+    "amount": 135.41,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-09",
+    "amount": 63.59,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-10",
+    "amount": 61.12,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-11",
+    "amount": 137.42,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-11",
+    "amount": 56.14,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-11",
+    "amount": 103.05,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-12",
+    "amount": 86.47,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-12",
+    "amount": 50.2,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-12",
+    "amount": 148.7,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-13",
+    "amount": 156.17,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-13",
+    "amount": 81.8,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-13",
+    "amount": 169.31,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-14",
+    "amount": 103.14,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-15",
+    "amount": 144.41,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-15",
+    "amount": 102.51,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-16",
+    "amount": 84.18,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-16",
+    "amount": 154.9,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-16",
+    "amount": 79.61,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-17",
+    "amount": 79.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-17",
+    "amount": 85.16,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-18",
+    "amount": 163.04,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-18",
+    "amount": 65.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-19",
+    "amount": 145.28,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-19",
+    "amount": 110.29,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-20",
+    "amount": 77.87,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-20",
+    "amount": 74.57,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-20",
+    "amount": 53.19,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-21",
+    "amount": 110.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-22",
+    "amount": 65.84,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-22",
+    "amount": 58.38,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-22",
+    "amount": 149.88,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-23",
+    "amount": 60.06,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-24",
+    "amount": 136.03,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-25",
+    "amount": 123.54,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-25",
+    "amount": 73.02,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-25",
+    "amount": 123.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-26",
+    "amount": 51.21,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-26",
+    "amount": 176.26,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-27",
+    "amount": 69.76,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-28",
+    "amount": 60.89,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-29",
+    "amount": 83.08,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-29",
+    "amount": 148.63,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-29",
+    "amount": 66.48,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-04-30",
+    "amount": 155.59,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-04-30",
+    "amount": 160.32,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-01",
+    "amount": 139.61,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-01",
+    "amount": 179.87,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-01",
+    "amount": 92.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-02",
+    "amount": 106.53,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-02",
+    "amount": 75.87,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-02",
+    "amount": 115.49,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-03",
+    "amount": 159.33,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-03",
+    "amount": 173.16,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-04",
+    "amount": 178.95,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-05",
+    "amount": 99.39,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-06",
+    "amount": 77.15,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-07",
+    "amount": 52.39,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-07",
+    "amount": 191.35,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-08",
+    "amount": 143.72,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-08",
+    "amount": 71.46,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-08",
+    "amount": 55.95,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-09",
+    "amount": 88.33,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-10",
+    "amount": 173.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-11",
+    "amount": 145.63,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-11",
+    "amount": 177.5,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-11",
+    "amount": 65.6,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-12",
+    "amount": 72.01,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-13",
+    "amount": 85.94,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-14",
+    "amount": 69.78,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-15",
+    "amount": 148.76,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-15",
+    "amount": 74.67,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-16",
+    "amount": 164.86,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-16",
+    "amount": 173.99,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-16",
+    "amount": 180.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-17",
+    "amount": 111.59,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-17",
+    "amount": 167.59,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-18",
+    "amount": 66.33,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-18",
+    "amount": 152.2,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-18",
+    "amount": 142.89,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-19",
+    "amount": 106.68,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-20",
+    "amount": 83.01,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-20",
+    "amount": 147.28,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-21",
+    "amount": 163.51,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-22",
+    "amount": 98.13,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-22",
+    "amount": 132.36,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-22",
+    "amount": 158.4,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-23",
+    "amount": 186.68,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-23",
+    "amount": 138.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-24",
+    "amount": 162.11,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-24",
+    "amount": 50.32,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-25",
+    "amount": 101.89,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-25",
+    "amount": 185.48,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-26",
+    "amount": 105.72,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-26",
+    "amount": 100.94,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-26",
+    "amount": 80.63,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-27",
+    "amount": 172.97,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-27",
+    "amount": 81.36,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-27",
+    "amount": 154.44,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-28",
+    "amount": 72.16,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-28",
+    "amount": 136.26,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-28",
+    "amount": 111.9,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-05-29",
+    "amount": 63.14,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-30",
+    "amount": 113.22,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-30",
+    "amount": 141.76,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-05-31",
+    "amount": 191.72,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-01",
+    "amount": 77.25,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-01",
+    "amount": 191.24,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-02",
+    "amount": 133.6,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-03",
+    "amount": 122.13,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-04",
+    "amount": 71.99,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-04",
+    "amount": 57.78,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-05",
+    "amount": 115.36,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-06",
+    "amount": 64.49,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-07",
+    "amount": 102.2,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-07",
+    "amount": 191.44,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-07",
+    "amount": 81.91,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-08",
+    "amount": 72.34,
+    "isLoyaltyCustomer": true,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-08",
+    "amount": 156.93,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-09",
+    "amount": 154.17,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-10",
+    "amount": 95.96,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-10",
+    "amount": 70.92,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-11",
+    "amount": 83.06,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-11",
+    "amount": 180.35,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-12",
+    "amount": 125.56,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  },
+  {
+    "date": "2025-06-13",
+    "amount": 64.07,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-13",
+    "amount": 126.43,
+    "isLoyaltyCustomer": false,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-14",
+    "amount": 120.3,
+    "isLoyaltyCustomer": true,
+    "channel": "online"
+  },
+  {
+    "date": "2025-06-15",
+    "amount": 98.72,
+    "isLoyaltyCustomer": false,
+    "channel": "in-store"
+  }
+]
